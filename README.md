@@ -1,5 +1,5 @@
 # vcodes-installer
-This Installer installin Vcodes V4 to Ubuntu VPS
+This Installer installing Vcodes V4 to Ubuntu VPS
 
 > # **How To Install?**
 
